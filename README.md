@@ -54,6 +54,9 @@ merger.merge(source).into(destination);
    required set method on the destination bean. You can however change this merge handler by specifying the @MergeHandler
    above any field.
 </p>
+<p>
+    Custom merge handlers can be created by implementing the com.mymo.merger.handler.MergeHandler interface.
+</p>
 
 ```java
 @Mergeable
