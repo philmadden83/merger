@@ -1,0 +1,27 @@
+#surefire
+#Tue Jun 07 15:54:50 CDT 2016
+testClassesDirectory=/Users/phil.madden/development/concepts/merger/target/test-classes
+classPathUrl.4=/Users/phil.madden/.m2/repository/org/apache/ant/ant/1.9.6/ant-1.9.6.jar
+classPathUrl.3=/Users/phil.madden/.m2/repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar
+classPathUrl.2=/Users/phil.madden/.m2/repository/cglib/cglib/3.2.2/cglib-3.2.2.jar
+useManifestOnlyJar=true
+classPathUrl.1=/Users/phil.madden/development/concepts/merger/target/classes
+reportsDirectory=/Users/phil.madden/development/concepts/merger/target/surefire-reports
+classPathUrl.0=/Users/phil.madden/development/concepts/merger/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/Users/phil.madden/development/concepts/merger/src/test/java
+surefireClassPathUrl.1=/Users/phil.madden/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/Users/phil.madden/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.mymo.merger.context.entity.DefaultEntityDefinitionFactoryTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/Users/phil.madden/development/concepts/merger/.surefire-482F18794A1EFB5298275AFD5CB78FAD43B95548
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.5=/Users/phil.madden/.m2/repository/org/apache/ant/ant-launcher/1.9.6/ant-launcher-1.9.6.jar

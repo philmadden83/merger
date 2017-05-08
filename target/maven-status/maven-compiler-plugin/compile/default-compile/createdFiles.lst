@@ -1,0 +1,10 @@
+Main.class
+com/mymo/merger/handler/MergeHandler.class
+com/mymo/merger/handler/BasicMergeHandler.class
+com/mymo/merger/exception/InstantiationException.class
+com/mymo/merger/exception/MergeException.class
+com/mymo/merger/annotation/Ignore.class
+com/mymo/merger/handler/OnlyEmptyMergeHandler.class
+com/mymo/merger/annotation/Scan.class
+com/mymo/merger/Merger.class
+com/mymo/merger/annotation/Configuration.class
